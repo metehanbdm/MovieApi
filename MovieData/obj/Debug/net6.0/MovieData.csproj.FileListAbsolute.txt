@@ -1,0 +1,14 @@
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\bin\Debug\net6.0\MovieData.deps.json
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\bin\Debug\net6.0\MovieData.runtimeconfig.json
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\bin\Debug\net6.0\MovieData.dll
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\bin\Debug\net6.0\MovieData.pdb
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\obj\Debug\net6.0\MovieData.csproj.AssemblyReference.cache
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\obj\Debug\net6.0\MovieData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\obj\Debug\net6.0\MovieData.AssemblyInfoInputs.cache
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\obj\Debug\net6.0\MovieData.AssemblyInfo.cs
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\obj\Debug\net6.0\MovieData.csproj.CoreCompileInputs.cache
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\obj\Debug\net6.0\MovieData.dll
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\obj\Debug\net6.0\refint\MovieData.dll
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\obj\Debug\net6.0\MovieData.pdb
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\obj\Debug\net6.0\MovieData.genruntimeconfig.cache
+C:\Users\metehan.badem\Desktop\MovieApi\MovieData\obj\Debug\net6.0\ref\MovieData.dll
